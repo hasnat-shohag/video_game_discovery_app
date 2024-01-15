@@ -20,11 +20,11 @@ function App() {
 				<NavBar />
 			</GridItem>
 			<Show above="lg">
-				<GridItem gridArea="aside" bg="papayawhip" h="100px">
+				<GridItem gridArea="aside" h="100px">
 					aside
 				</GridItem>
 			</Show>
-			<GridItem gridArea="main" bg="pink" h="100px">
+			<GridItem gridArea="main" h="100px">
 				main
 			</GridItem>
 		</Grid>
